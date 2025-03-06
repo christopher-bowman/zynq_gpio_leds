@@ -1,2 +1,2 @@
-# zynq_gpio_leds
-Vivado project to connect the LEDs on the Arty Z20 to the FreeBSD GPIO subsystem
+Vivado project to connect Arty Z20 leds to GPIO pins.
+Must be built under Linux
